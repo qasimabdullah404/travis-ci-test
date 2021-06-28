@@ -1,0 +1,10 @@
+---
+language: node_js
+cache:
+  bundler: true
+  npm: true
+node_js:
+- 10.16.0
+os: linux
+group: stable
+dist: xenial
